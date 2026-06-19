@@ -15,6 +15,7 @@
 * Used Excel's "Text to Columns" wizard with the MDY setting to force Excel to recognize American date strings as valid dates.
 * Used the "Remove Duplicates" tool on the entire dataset to eliminate 100% exact row matches.
 * Built calculated columns to dynamically check math (`calculated_sales`, `calculated_profit`).
+* Standardized discount values by converting percentage formats to decimal values to ensure mathematical accuracy in sales and profit calculations.
 
 ## 3. Business Rules Applied
 * Blank regions and ship modes were hardcoded as "Unknown".

@@ -25,3 +25,5 @@ This project focuses on auditing, cleaning, and analyzing a messy e-commerce dat
 ## Key Business Insights
 * By applying business rules to filter out cancelled, returned, and failed payment orders, we identified the "True" completed sales performance.
 * This audit revealed significant mathematical discrepancies in the raw system export, highlighting the necessity for data validation before reporting.
+* New Grand Total for sales   7175634.736
+* New Grand Total for profits 2052957.716
