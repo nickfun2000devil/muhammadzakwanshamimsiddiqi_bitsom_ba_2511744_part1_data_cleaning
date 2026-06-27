@@ -56,13 +56,16 @@ Using the finalized, verified table dataset (`cleaned_orders.xlsx`), a series of
 
 ## 10. Screenshots Included
 
-Below is the embedded verification evidence showcasing the data structure transformations and the resulting operational summaries:
+The following verification evidence captures show the structural data cleaning and optimization steps taken in Excel:
 
-### Cleaned Funnel Data Preview
-![Cleaned Data Preview](cleaned_data_preview.png)
+**1. Raw Data Preview:**
+![Raw Dataset Before Cleaning](screenshots/raw_data_preview.png)
 
-### Final Sales & Profit Pivot Table Summary
-![Pivot Summary 1](pivot_summary_1.png)
+**2. Cleaned Data Preview:**
+![Cleaned Dataset with Calculated Columns](screenshots/cleaned_data_preview.png)
 
-### Regional Margin Pivot Table Summary
-![Pivot Summary 2](pivot_summary_2.png)
+**3. Pivot Summary 1:**
+![Regional and Categorical Sales Pivot Summaries](screenshots/pivot_summary_1.png)
+
+**4. Pivot Summary 2:**
+![Customer Segment and Monthly Trend Pivot Summaries](screenshots/pivot_summary_2.png)
